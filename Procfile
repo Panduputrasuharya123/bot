@@ -1,2 +1,2 @@
-pekerja: python darkbot.py
+pekerja: python darkbot.py.
 
